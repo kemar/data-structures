@@ -6,3 +6,9 @@ Basic data structures using Python and JavaScript :
 - Linked Lists
 - Stacks and Queues
 - Trees and Graphs with a full Binary Search Tree implementation
+
+Basic sorting algorithms
+
+- Bubble Sort
+- Merge Sort
+- Quick Sort
